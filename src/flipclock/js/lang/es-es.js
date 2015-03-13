@@ -11,7 +11,7 @@
 		
 		'years'   : 'A&#241;os',
 		'months'  : 'Meses',
-		'days'    : 'D&#205;as',
+		'days'    : 'D&#237;as',
 		'hours'   : 'Horas',
 		'minutes' : 'Minutos',
 		'seconds' : 'Segundo'	
